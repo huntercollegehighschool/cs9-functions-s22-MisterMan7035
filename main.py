@@ -10,7 +10,7 @@ def main():
     os.system('clear')
     print("That's not a valid input.")
     program = input("Enter 1, 2, 3, or 4: ")
-
+    
   os.system('clear')
   program = int(program)
   
